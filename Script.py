@@ -12,8 +12,8 @@ def is_enabled(value, default):
 
 class script(object):
     HOME_BUTTONURL_UPDATES = environ.get("HOME_BUTTONURL_UPDATES", 'https://clicksfly.com/ref/LazyDeveloperr')
-    START_TXT = environ.get("START_TXT", '''Hello {},
-Myself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I can't even imagine how super-fast i can drive your Database channel \n\nAre you ready for Long Drive Baby...🤪''')
+    START_TXT = environ.get("START_TXT", '''ನಮಸ್ಕಾರ 🙏 ಗುರುಗಳೇ {},
+Myself <a href=https://t.me/{}>{}</a>ಕ್ಕೆ ಸುಸ್ವಾಗತ,\n\nಬಾ ಗುರು ನಮ್ದು ಸ್ವಲ್ಪ ಕನ್ನಡ ಮೂವಿ ನೋಡು🤪""")
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
@@ -50,7 +50,7 @@ You can easily get its source code from github - <a href='https://github.com/Laz
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/LazyDeveloper)</code>
+<code>[Button Text](buttonurl:https://t.me/kannada_movies_rvasp)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
